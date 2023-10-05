@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
+div{
+  margin: 5px;
+}
+
+img{
+  width: 160px;
+  height: 120px;
+  margin: 25px;
+}
+
+#product{
+  margin-left: 250px;
+  display: flex;
+  justify-content: center;
+  border: none;
+  width: 1000px;
+  border-radius: 10px;
+  box-shadow: 20px 10px 5px grey;
+  margin-bottom: 40px;
+  background-color: whitesmoke;
+}
+
+#itemlist{
+display: flex;
+justify-content: center;
+}
+
+#itemlist div{
+margin-right: 30px;
+}
+
+button{
+  border-radius: 5px;
+}
